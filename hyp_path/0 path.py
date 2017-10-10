@@ -7,19 +7,19 @@ from letter_pieces_v12 import *
 
 
 ### VARIABLES
-apt_hor = 0, 0
-apt_ver = 150, 200
+apt_hor = 0, 0 #anchor point horizontal
+apt_ver = 203, 143 #anchor point vertical
 
-tck_hor = 30
-tck_ver = 70
+tck_hor = 35 #thickness junction
+tck_ver = 70 #thickness exit
 
-ang_inr = 30
-ang_otr = 10
+ang_inr = 38 #angle internal
+ang_otr = 28 #angle external
 
-sqr_inr = .8
-sqr_otr = .6
+sqr_inr = .7 #square internal
+sqr_otr = .6 #square external
 
-acc = 100
+acc = 200 #accuracy
 
 
 
